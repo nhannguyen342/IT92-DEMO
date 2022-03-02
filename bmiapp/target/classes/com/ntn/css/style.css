@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 2, 2022, 7:47:25 AM
+    Author     : ACER
+*/
+
+
+GridPane {
+    -fx-background-color: lightblue;
+    -fx-text-fill:black;
+    
+}
+
+text {
+    
+}

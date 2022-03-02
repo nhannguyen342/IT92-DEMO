@@ -1,0 +1,4 @@
+module-info.class
+com\ntn\bmiapp\PrimaryController.class
+com\ntn\bmiapp\App.class
+com\ntn\bmiapp\SecondaryController.class
